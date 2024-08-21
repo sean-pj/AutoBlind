@@ -1,4 +1,4 @@
-# Air Mate
+# Auto Blind
 Automatic window blind controller built with Arduino and MATLAB. A servo is used to control the window blinds. Ultrasonic sensor data is used to detect when the user goes to bed, which along with data and time information is used to control the servo automatically. The system should also has potentiometer manual overrides so that the user can control the blinds themselves when needed.
 ## Hardware
 * Arduino grove board
